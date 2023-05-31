@@ -1,11 +1,17 @@
+/* EJERCICIO N°1 :: GUIA 07 - Introducción a Java
+ * PDF: Material de Trabajo
+ * Curso QA + Automation by Globant / Egg Cooperation
+*/
+
+// IMPORTAMOS CLASE SCANNER DESDE EL PAQUETE JAVA UTIL
 import java.util.Scanner;
 
     /**
-     * @author Juan Pablo Sinkachkuk / GITHUB: @juan-ps
+     * @author Juan Pablo Sinkachkuk / GITHUB: '@juan-ps'
      * @version 1.0
      */
 
-public class ejercicioUno {
+public class ejercicio01 {
 
     /**
      * @param args the command line arguments
@@ -40,9 +46,10 @@ public class ejercicioUno {
         System.out.println("");
         System.out.println("La suma de ambos numeros es igual a: " + suma + ".");
         System.out.println("");
-        System.out.println("-------------------------------------------");
-        System.out.println("        Programa hecho por @juan-ps        ");
-        System.out.println("");
 
+        // FIN DEL PROGRAMA
+        System.out.println("-------------------------------------------");
+        System.out.println("    Programa hecho por @juan-ps (GitHub)   ");
+        System.out.println("");
     }
 }

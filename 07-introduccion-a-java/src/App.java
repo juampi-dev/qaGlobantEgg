@@ -1,5 +1,5 @@
     /**
-     * @author Juan Pablo Sinkachkuk / GITHUB: @juan-ps
+     * @author Juan Pablo Sinkachkuk / GITHUB: '@juan-ps'
      * @version 1.0
      */
 

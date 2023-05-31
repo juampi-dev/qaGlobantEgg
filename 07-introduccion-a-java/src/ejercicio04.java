@@ -1,11 +1,17 @@
+/* EJERCICIO N°4 :: GUIA 07 - Introducción a Java
+ * PDF: Material de Trabajo
+ * Curso QA + Automation by Globant / Egg Cooperation
+*/
+
+// IMPORTAMOS CLASE SCANNER DESDE EL PAQUETE JAVA UTIL
 import java.util.Scanner;
 
     /**
-     * @author Juan Pablo Sinkachkuk / GITHUB: @juan-ps
+     * @author Juan Pablo Sinkachkuk / GITHUB: '@juan-ps'
      * @version 1.0
      */
 
-public class EjercicioCuatro {
+public class ejercicio04 {
 
     /**
      * @param args the command line arguments
@@ -49,9 +55,12 @@ public class EjercicioCuatro {
         System.out.println("                   RESULTADO:");
         System.out.println(celsius + "° grados Centígrados son " + fhrn + "° grados Fahrenheit.");
         System.out.println("");
+
+        // FIN DEL PROGRAMA
+        leer.close();
         System.out.println("------------------------------------------------------");
         System.out.println("         Gracias por usar nuestros servicios!         ");
-        System.out.println("             Programa hecho por @juan-ps              ");
+        System.out.println("         Programa hecho por @juan-ps (GitHub)         ");
         System.out.println("");
     }
 }
